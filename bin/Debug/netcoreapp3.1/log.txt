@@ -1,0 +1,34 @@
+2020-12-22 01:24:40.114 +03:00 [INF] Test log
+2020-12-22 02:26:10.572 +03:00 [INF] Scanning Started!
+2020-12-22 02:32:54.588 +03:00 [INF] Port scanning stopped, all tasks canceled!
+2020-12-22 02:34:49.590 +03:00 [INF] Scanning Started!
+2020-12-22 02:45:50.762 +03:00 [INF] Port scanning stopped, all tasks canceled!
+2020-12-22 02:46:29.574 +03:00 [INF] Scanning Started!
+2020-12-22 02:46:44.147 +03:00 [INF] Rescan Started with new task Count!
+2020-12-22 02:47:54.000 +03:00 [INF] Scanning Started!
+2020-12-22 02:48:06.297 +03:00 [INF] Rescan Started with new task Count!
+2020-12-22 02:48:17.675 +03:00 [INF] Port scanning stopped, all tasks canceled!
+2020-12-22 09:50:04.211 +03:00 [INF] Scanning Started!
+2020-12-22 09:50:08.998 +03:00 [INF] Port scanning stopped, all tasks canceled!
+2020-12-22 09:50:53.715 +03:00 [INF] Scanning Started!
+2020-12-22 09:50:56.292 +03:00 [INF] Rescan Started with new task Count!
+2020-12-22 09:51:22.418 +03:00 [INF] Scanning Started!
+2020-12-22 09:52:09.364 +03:00 [INF] Scanning Started!
+2020-12-22 09:52:10.756 +03:00 [INF] Rescan Started with new task Count!
+2020-12-22 10:03:25.324 +03:00 [INF] Scanning Started!
+2020-12-22 10:04:33.979 +03:00 [INF] Scanning Started!
+2020-12-22 10:04:38.039 +03:00 [INF] Port scanning stopped, all tasks canceled!
+2020-12-22 10:05:48.453 +03:00 [INF] Scanning Started!
+2020-12-22 10:05:57.641 +03:00 [INF] Port scanning stopped, all tasks canceled!
+2020-12-22 10:07:37.119 +03:00 [INF] Scanning Started!
+2020-12-22 10:07:45.536 +03:00 [INF] Port scanning stopped, all tasks canceled!
+2020-12-22 10:09:17.736 +03:00 [INF] Scanning Started!
+2020-12-22 10:09:19.246 +03:00 [INF] Rescan Started with new task Count!
+2020-12-22 10:09:22.767 +03:00 [INF] Port scanning stopped, all tasks canceled!
+2020-12-22 10:11:25.567 +03:00 [INF] Scanning Started!
+2020-12-22 10:11:30.243 +03:00 [INF] Port scanning stopped, all tasks canceled!
+2020-12-22 10:12:54.070 +03:00 [INF] Scanning Started!
+2020-12-22 10:13:07.305 +03:00 [INF] Rescan Started with new task Count!
+2020-12-22 10:13:34.763 +03:00 [INF] Port scanning stopped, all tasks canceled!
+2020-12-22 10:14:06.604 +03:00 [INF] Scanning Started!
+2020-12-22 10:14:19.312 +03:00 [INF] Port scanning stopped, all tasks canceled!
